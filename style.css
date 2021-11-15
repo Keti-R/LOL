@@ -1,0 +1,41 @@
+.body {
+    background-color: cadetblue;
+}
+
+.hide {
+    display: none;
+}
+
+.car {
+    position: absolute;
+    bottom: 100px;
+    margin: auto;
+    left: 200px;
+    width: 150px;
+    height: 250px;
+    background-color: blue;
+    object-fit: contain;
+    background: url(lalalala.png);
+}
+
+.start {
+    width: 100px;
+    margin-top: 300px;
+    height: 80px;
+    margin-left: 650px;
+}
+
+.startScreen {
+    font-size: xx-large;
+}
+
+
+/*.gameArea {
+    background-color: black;
+    width: 200px;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    margin: auto;
+}
+*/
